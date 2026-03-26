@@ -5,7 +5,11 @@ longwave radiation (W/m2), relative humidity, resultant of
 zonal and meridional wind speed (m/s), sea level pressure
 (kPa) and rainfall (mm), maximum temperature (°C), and
 solar radiation (J/m2
-). In addition, month index, i.e., 1 for
+).
+
+WE ARE NO LONGER USING LONGWAVE RADIATION. 
+
+In addition, month index, i.e., 1 for
 January, 2 for February, is also used as an input. Out of
 these variables, rainfall and maximum temperature values
 are observed records, converted to gridded products with
